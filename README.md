@@ -21,6 +21,13 @@ This repository contains all the resources for the M2 course "Introduction to De
 - [Linear regression](2-basics/linear-regression.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/2-basics/linear-regression.ipynb)
 
 
+### 23/01/2025. Automatic Differentiation and Backpropagation
+
+- [Automatic Differentiation](3-autodiff/autodiff.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/3-autodiff/autodiff.ipynb)
+- [Dual Numbers](3-autodiff/dual-numbers.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/3-autodiff/dual-numbers.ipynb)
+- [TP: Simple Backpropagation Implementation](3-autodiff/tp-3-backprop.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/3-autodiff/tp-3-backprop.ipynb)
+
+
 ## Evaluation
 
 ### Course Project (70%)
