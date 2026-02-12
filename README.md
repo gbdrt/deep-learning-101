@@ -48,6 +48,11 @@ To access GPUs (for the TPs and the project), you can try https://datalab.sspclo
 - [TP: Convolutional Neural Network (CNN)](5-CNN/tp-5-cnn.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/5-CNN/tp-5-cnn.ipynb)
 
 
+### 13/02/2026. Optimization: Gradient Descent and Optimizers
+
+- [Optimization: Gradient Descent](6-optimization/optimization.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/6-optimization/optimization.ipynb)
+
+
 ## Evaluation
 
 ### Course Project (70%)
